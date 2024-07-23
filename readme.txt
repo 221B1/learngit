@@ -5,4 +5,5 @@ Git tracks changes of files.
 Git remote to repository.
 Creating a new branch is quick.
 
-Change in dev.
+Change in dev but add and commit and merge.
+
