@@ -4,3 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Git remote to repository.
 Creating a new branch is quick.
+
+Change in dev but add and commit.
